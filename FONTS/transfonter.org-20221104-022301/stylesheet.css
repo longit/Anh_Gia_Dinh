@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SVN-Qalisha Signature Script';
+    src: url('SVN-QalishaSignature-Script.eot');
+    src: url('SVN-QalishaSignature-Script.eot?#iefix') format('embedded-opentype'),
+        url('SVN-QalishaSignature-Script.woff2') format('woff2'),
+        url('SVN-QalishaSignature-Script.woff') format('woff'),
+        url('SVN-QalishaSignature-Script.ttf') format('truetype'),
+        url('SVN-QalishaSignature-Script.svg#SVN-QalishaSignature-Script') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

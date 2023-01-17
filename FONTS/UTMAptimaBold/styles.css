@@ -1,0 +1,20 @@
+
+@font-face {
+  	font-family: 'UTMAptimaBold';
+  	src: url('UTMAptimaBold.eot') format('embedded-opentype'),
+	   url('UTMAptimaBold.ttf')  format('truetype'),
+	   url('UTMAptimaBold.woff')  format('truetype'), 
+	   url('UTMAptimaBold.svg#UTMAptimaBold') format('svg');
+  	font-weight: normal;
+  	font-style: normal;
+}
+
+@font-face {
+  font-family: 'UTMAptimaBold';
+  src: url('UTMAptimaBold.ttf')  format('truetype'), 
+  url('UTMAptimaBold.svg#UTMAptimaBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
